@@ -1,0 +1,21 @@
+center {
+
+    align-items: center;
+
+}
+article{
+
+    background-color: rgb(250, 230, 171);
+}
+
+#img1 {
+    height: 400px;
+}
+
+h2{
+    text-align: left;
+}
+
+a{
+    float:none;
+}
