@@ -5,8 +5,9 @@ center {
 }
 article{
 
-    background-color: rgb(250, 230, 171);
+    
 }
+
 
 #img1 {
     height: 400px;
@@ -35,3 +36,20 @@ P{
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+a {
+    color: hotpink;
+  }
+
+  a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  a:hover, a:active {
+    background-color: darkgreen;
+  }
